@@ -1,2 +1,2 @@
 # vue-yka
-vue-ykb
+vue-yka
